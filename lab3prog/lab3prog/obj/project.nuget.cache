@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1T0BFNpZI73K6/iKOpTKHVh+zEjmrKR23p23GspcMNBHfphkn8oppIns4y8R8Yr6As9r32q8BRRERJ7pTuKgg==",
+  "success": true,
+  "projectFilePath": "C:\\lab3prog\\lab3prog\\lab3prog\\lab3prog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

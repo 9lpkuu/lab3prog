@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\s6717\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "\\\\psta.ru\\EDU\\Students\\s6717\\Desktop\\lab3programmirovanie\\lab3prog\\lab3prog\\lab3prog\\lab3prog.csproj",
+      "projectName": "lab3prog",
+      "projectPath": "\\\\psta.ru\\EDU\\Students\\s6717\\Desktop\\lab3programmirovanie\\lab3prog\\lab3prog\\lab3prog\\lab3prog.csproj",
+      "packagesPath": "C:\\Users\\s6717\\.nuget\\packages\\",
+      "outputPath": "\\\\psta.ru\\EDU\\Students\\s6717\\Desktop\\lab3programmirovanie\\lab3prog\\lab3prog\\lab3prog\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "\\\\psta.ru\\EDU\\AppData\\s6717\\Application Data\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}
